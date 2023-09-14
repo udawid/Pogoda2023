@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pogoda2023</string>
+    <string name="tytul">Pogoda na świecie</string>
+    <string name="imput_hint">Wprowadź nazwę miasta</string>
+    <string name="button_text">Pobierz</string>
+    <string name="brak">Proszę wpisać nazwę miasta!</string>
+</resources>
